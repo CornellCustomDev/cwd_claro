@@ -1,0 +1,23 @@
+core_version_requirement: ^8.8 || ^9
+type: theme
+base theme: claro
+
+name: 'CWD Claro'
+description: 'Light enhancements for the Drupal admin theme Claro.'
+package: 'Cornell CWD'
+
+regions:
+  header: 'Header'
+  pre_content: 'Pre-content'
+  breadcrumb: Breadcrumb
+  highlighted: Highlighted
+  help: Help
+  content: Content
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  sidebar_first: 'First sidebar'
+regions_hidden:
+  - sidebar_first
+
+libraries:
+  - 'cwd_claro/global-styling'

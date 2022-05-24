@@ -1,0 +1,9 @@
+global-styling:
+  css:
+    theme:
+      css/admin.css: {}
+      css/chosen.claro.css: {}
+      fonts/font-awesome.min.css: {}
+      fonts/material-design-iconic-font.min.css: {}
+  js:
+    js/admin.js: {}
