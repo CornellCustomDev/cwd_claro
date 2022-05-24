@@ -1,5 +1,5 @@
-# Schema for the configuration files of the Claro theme.
+# Schema for the configuration files of our Claro child theme.
 
-cwd_admin.settings:
+cwd_claro.settings:
   type: theme_settings
-  label: 'CWD Admin Theme (D8) settings'
+  label: 'CWD Claro Admin Theme settings'
