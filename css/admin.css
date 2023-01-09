@@ -1,3 +1,18 @@
 .ui-widget-content .button--primary {
 	color: #fff;
 }
+
+/* Lock Icon */
+
+.lock:before {
+	font: normal normal normal 14px/1 FontAwesome;
+	content: '\f023' !important;
+	font-size: inherit;
+	line-height: 1.2 !important;
+	color: #444;
+	display: inline-block;
+	margin-right: 0.4em;
+	position: relative;
+	top: 1px;
+	text-rendering: auto;
+}
