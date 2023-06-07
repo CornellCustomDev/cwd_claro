@@ -4,4 +4,4 @@
 # cwd_claro
 Light enhancements for the Drupal admin theme Claro.
 
-Can be used with https://github.com/CU-CommunityApps/CD-demo (and sites created from CD Demo).
+Can be used with https://github.com/CU-CommunityApps/cd_drupal_upstream (and [CD Demo "original recipe"](https://github.com/CU-CommunityApps/CD-demo)) -- and sites created from CD Demo.
