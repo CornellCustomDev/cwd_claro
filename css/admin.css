@@ -16,3 +16,7 @@
 	top: 1px;
 	text-rendering: auto;
 }
+
+.ck-powered-by-balloon {
+	display: none !important;
+}
