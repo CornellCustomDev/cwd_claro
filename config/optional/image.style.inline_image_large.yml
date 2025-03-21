@@ -1,0 +1,15 @@
+uuid: 2fbfd95c-6ab8-42bb-93b1-6c5a89f1097c
+langcode: en
+status: true
+dependencies: {  }
+name: inline_image_large
+label: 'Inline Image, Large (Full Width, 1280px)'
+effects:
+  242a7f76-8095-4f2b-8d35-78ae47f507f0:
+    uuid: 242a7f76-8095-4f2b-8d35-78ae47f507f0
+    id: image_scale
+    weight: 1
+    data:
+      width: 1280
+      height: null
+      upscale: false

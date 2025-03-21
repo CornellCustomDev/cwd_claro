@@ -1,0 +1,15 @@
+uuid: d417f2db-3d95-4f45-856d-5e2a6500940b
+langcode: en
+status: true
+dependencies: {  }
+name: page_banner_1280x500
+label: 'Page Banner (1280×500)'
+effects:
+  7009c8dc-323d-4cf3-b049-ad9c22a5e318:
+    uuid: 7009c8dc-323d-4cf3-b049-ad9c22a5e318
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 1280
+      height: 500
+      anchor: center-center

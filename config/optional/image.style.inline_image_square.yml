@@ -1,0 +1,15 @@
+uuid: 67561b0f-95fe-480e-a22d-400541a72c97
+langcode: en
+status: true
+dependencies: {  }
+name: inline_image_square
+label: 'Inline Image, Square (40%, 512x512px)'
+effects:
+  2c40fec7-3ae6-4f9a-8b49-bfdb573f299e:
+    uuid: 2c40fec7-3ae6-4f9a-8b49-bfdb573f299e
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 512
+      height: 512
+      anchor: center-center

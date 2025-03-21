@@ -1,0 +1,15 @@
+uuid: 060124eb-086e-4d34-b87e-5e4b48c31465
+langcode: en
+status: true
+dependencies: {  }
+name: inline_image_small
+label: 'Inline Image, Small (40%, 512px)'
+effects:
+  f9c99cba-d7a7-4b8b-afc3-7756de9bd968:
+    uuid: f9c99cba-d7a7-4b8b-afc3-7756de9bd968
+    id: image_scale
+    weight: 1
+    data:
+      width: 512
+      height: null
+      upscale: false

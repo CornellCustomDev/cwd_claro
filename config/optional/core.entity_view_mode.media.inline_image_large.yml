@@ -1,0 +1,11 @@
+uuid: 63eb3243-c734-447d-844a-8b36b87666c8
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media.inline_image_large
+label: 'Large (1280)'
+description: 'A large image, scaled down to 1280px wide. Use this size when the image must fill the width of the page.'
+targetEntityType: media
+cache: true

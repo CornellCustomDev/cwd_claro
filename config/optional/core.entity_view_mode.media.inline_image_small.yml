@@ -1,0 +1,11 @@
+uuid: 45db6efa-1bda-4299-bcda-5bbba18f4dde
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media.inline_image_small
+label: 'Small (512)'
+description: 'A small image, scaled down to 512px wide. Use this size when aligning the image left or right on the page.'
+targetEntityType: media
+cache: true

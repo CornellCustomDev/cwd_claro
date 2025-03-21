@@ -1,0 +1,11 @@
+uuid: 3956bac7-52f4-49e7-9b52-df881e1986d5
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media.inline_image_square
+label: 'Square (512)'
+description: 'A small image, scaled down to 512px and cropped to a square. Use this size when aligning a square image left or right on the page.'
+targetEntityType: media
+cache: true

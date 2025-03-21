@@ -1,0 +1,11 @@
+uuid: 3987ad6d-2c56-48d6-8314-4c1f0440ed23
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media.inline_image_banner
+label: 'Banner (1280)'
+description: 'A large image, scaled down to 1280px wide and cropped to 500px tall. Use this size when the image must fill the width of the page, and force a banner-like aspect ratio.'
+targetEntityType: media
+cache: true
